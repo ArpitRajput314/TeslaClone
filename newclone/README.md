@@ -5,9 +5,6 @@
 - Created Using HTML5, CSS3 and JavaScript.
 
 
-## Author
-
-- [@youssefadbz](https://www.github.com/youssefadbz)
 
 
 ## Screenshot
@@ -19,5 +16,4 @@
 
 - Scroll through pictures smoothly. 
 - Open/Close the menu.
-- Responsive with all devices.
 
